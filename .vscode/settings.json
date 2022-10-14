@@ -1,0 +1,5 @@
+{
+    "yaml.schemas": {
+        "kubernetes://schema/v1%40pod": "file:///c%3A/Users/User/Desktop/k8s_manifest/nginx-pod.yml"
+    }
+}
